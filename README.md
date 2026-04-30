@@ -49,11 +49,11 @@ Generate clean, printable reports (not just raw HTML)
 
 ## 📸 Screenshots
 
-![Register](<img width="1279" height="636" alt="image" src="https://github.com/user-attachments/assets/4d0db5b0-d0d7-4919-8572-344d8046ea73" />)
-![Dashboard](<img width="1280" height="540" alt="image" src="https://github.com/user-attachments/assets/ede4e0b2-1547-414d-9bf8-88fd35207915" />)
-![Heatmap](<img width="1270" height="281" alt="image" src="https://github.com/user-attachments/assets/fce5b57b-2a48-4fc8-b386-8c339dbe1e14" />)
-![Roadmap](<img width="1256" height="305" alt="image" src="https://github.com/user-attachments/assets/642417f0-2488-4202-9117-b5079ddd0ab2" />)
-![Export](<img width="683" height="331" alt="image" src="https://github.com/user-attachments/assets/7e23ce06-2b1d-4284-af09-b2c10fa94881" />)
+![Register](https://github.com/user-attachments/assets/4d0db5b0-d0d7-4919-8572-344d8046ea73)
+![Dashboard](https://github.com/user-attachments/assets/ede4e0b2-1547-414d-9bf8-88fd35207915)
+![Heatmap](https://github.com/user-attachments/assets/fce5b57b-2a48-4fc8-b386-8c339dbe1e14)
+![Roadmap](https://github.com/user-attachments/assets/642417f0-2488-4202-9117-b5079ddd0ab2)
+![Export](https://github.com/user-attachments/assets/7e23ce06-2b1d-4284-af09-b2c10fa94881)
 
 ---
 
