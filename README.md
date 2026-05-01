@@ -122,18 +122,6 @@ Select any risk and click "AI Fix" — the engine maps the risk category to a cu
 
 ---
 
-## What this covers (portfolio context)
-
-This project was built as part of a cybersecurity portfolio covering:
-
-- [x] Project 2 — Cloud Security Risk Assessment (GRC) ✅ ← this tool
-- [x] Project 4 — Network & Host Scanning with Nmap ✅
-- [x] Project 5 — Web App Scanning with OWASP ZAP ✅
-- [ ] Project 1 — Active Directory Setup & User Management
-- [ ] Project 3 — Log File Analysis / SIEM Virtualization
-
----
-
 ## Roadmap
 
 - [ ] Real Claude API integration for dynamic AI suggestions
