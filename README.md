@@ -1,7 +1,7 @@
 # GRC Risk Engine
 
 > **A fully interactive, AI-powered cloud security risk assessment tool.**  
-> Built in vanilla JavaScript. No frameworks. No backend. No nonsense.  
+> Built in vanilla JavaScript. No frameworks. No backend.  
 > Open the file. It works.
 
 ![Register](https://github.com/user-attachments/assets/4d0db5b0-d0d7-4919-8572-344d8046ea73)
